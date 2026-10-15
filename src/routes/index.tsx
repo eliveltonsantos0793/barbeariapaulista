@@ -441,10 +441,14 @@ function Footer() {
           <span className="pole block h-5 w-1.5 rounded-full" aria-hidden="true" />
           © {new Date().getFullYear()} {site.name} · {site.tagline}
         </p>
-        <a 
-          href={`https://www.linkedin.com/in/eliveltondev<linkedin classname="h-4 w4" />
-          Desenvolvido por Elivelton Santos </a>
-        </a>
+        <a
+          href="https://www.Linkedin.com/in/eliveltondev"
+          target="blank" rel="noopener noreferrer"
+          className="flex items-center gap-2 houver:underline">
+          <Linkedin className="h-4 w-4" />
+         <span> Desenvolvido por Elivelton Santos </span>
+      </a>
+      
       </div>
     </footer>
   )
