@@ -3,7 +3,7 @@ import { HeadContent, Scripts, createRootRoute } from '@tanstack/react-router'
 
 import '../styles.css'
 
-const siteName = 'Dom Navalha — Barbearia clássica em São Paulo'
+const siteName = 'Barbearia Paulista'
 const siteDescription =
   'Corte, barba e degradê com acabamento na navalha. Agende seu horário direto pelo WhatsApp.'
 
