@@ -1,6 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { useState } from 'react'
-import { Clock, MapPin, Instagram, Scissors, Star, Check, Plus, Menu, X } from 'lucide-react'
+import { Clock, MapPin, Linkedin, Scissors, Star, Check, Plus, Menu, X } from 'lucide-react'
 import {
   site,
   services,
@@ -10,6 +10,7 @@ import {
   img,
   type Service,
 } from '../data/site'
+import { Linkedin } from "lucide-react";
 
 export const Route = createFileRoute('/')({ component: Home })
 
@@ -440,13 +441,9 @@ function Footer() {
           <span className="pole block h-5 w-1.5 rounded-full" aria-hidden="true" />
           © {new Date().getFullYear()} {site.name} · {site.tagline}
         </p>
-        <a
-          href={`https://instagram.com/${site.instagram}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-2 hover:text-brass-2"
-        >
-          <Instagram className="h-4 w-4" /> @{site.instagram}
+        <a 
+          href={`https://www.linkedin.com/in/eliveltondev<linkedin classname="h-4 w4" />
+          Desenvolvido por Elivelton Santos </a>
         </a>
       </div>
     </footer>
