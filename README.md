@@ -1,4 +1,4 @@
-# Dom Navalha — site da barbearia
+# Barbearia Paulisa — site da barbearia
 
 Site de página única para uma barbearia clássica. Não há formulários nem banco de dados: todo pedido de contato ou agendamento abre uma conversa no WhatsApp com a mensagem já preenchida.
 
