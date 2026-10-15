@@ -10,7 +10,7 @@ import {
   img,
   type Service,
 } from '../data/site'
-import { Linkedin } from "lucide-react";
+
 
 export const Route = createFileRoute('/')({ component: Home })
 
