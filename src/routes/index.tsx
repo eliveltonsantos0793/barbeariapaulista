@@ -311,7 +311,7 @@ function House() {
           </h2>
           <p className="mt-6 text-cream/70">
             Na {site.name} cada atendimento tem hora marcada e tempo de sobra. Nada de fila, nada de
-            pressa: você senta, toma um café ou uma cerveja gelada e sai do jeito que pediu.
+            pressa: você senta, toma um café e sai do jeito que pediu.
           </p>
           <ul className="mt-8 space-y-4">
             {[
@@ -339,7 +339,7 @@ function Testimonials() {
   return (
     <section id="depoimentos" className="mx-auto max-w-6xl scroll-mt-20 px-5 py-24 md:py-32">
       <p className="text-xs font-semibold uppercase tracking-[0.35em] text-brass">Clientes</p>
-      <h2 className="mt-3 font-display text-4xl md:text-6xl">Quem senta, volta.</h2>
+      <h2 className="mt-3 font-display text-4xl md:text-6xl">Quem visita, sempre volta.</h2>
       <div className="mt-14 grid gap-6 md:grid-cols-3">
         {testimonials.map((t) => (
           <figure key={t.name} className="rounded-2xl border border-cream/10 bg-ink-2 p-7">
