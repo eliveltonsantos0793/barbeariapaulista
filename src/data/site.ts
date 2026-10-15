@@ -2,17 +2,17 @@
 // endereço, horários e serviços neste arquivo — o site inteiro se atualiza.
 
 export const site = {
-  name: 'Dom Navalha',
-  tagline: 'Barbearia clássica',
+  name: ' Paulista',
+  tagline: 'Barbearia ',
   // Somente dígitos: código do país + DDD + número (ex.: 5511987654321)
-  whatsapp: '5511999999999',
-  whatsappDisplay: '(11) 99999-9999',
-  instagram: 'domnavalha',
-  address: 'Rua Augusta, 1520 — Consolação, São Paulo/SP',
-  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Rua+Augusta+1520+Sao+Paulo',
+  whatsapp: '5548999985115',
+  whatsappDisplay: '(48) 99998-5115',
+  instagram: '@will_bertoldo',
+  address: 'Avenida Bayer Filho, 998 — Centro - Tijucas/SC',
+  mapsUrl: 'https://maps.app.goo.gl/E7zQAMZgfCmLQ1QC6',
   hours: [
-    { days: 'Terça a sexta', time: '9h às 20h' },
-    { days: 'Sábado', time: '8h às 18h' },
+    { days: 'Terça a sábado', time: '9h às 20h' },
+    { days: 'Segunda', time: '14h às 20h' },
     { days: 'Domingo e segunda', time: 'Fechado' },
   ],
 }
