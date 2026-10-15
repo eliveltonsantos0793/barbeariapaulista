@@ -2,7 +2,7 @@
 // endereço, horários e serviços neste arquivo — o site inteiro se atualiza.
 
 export const site = {
-  name: ' Paulista',
+  name: ' Barbearia Paulista',
   tagline: 'Barbearia ',
   // Somente dígitos: código do país + DDD + número (ex.: 5511987654321)
   whatsapp: '5548999985115',
