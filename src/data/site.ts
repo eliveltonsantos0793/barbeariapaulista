@@ -3,11 +3,11 @@
 
 export const site = {
   name: ' Barbearia Paulista',
-  tagline: 'Barbearia ',
+  tagline: '| Todos os direitos Reservados. ',
   // Somente dígitos: código do país + DDD + número (ex.: 5511987654321)
   whatsapp: '5548999985115',
   whatsappDisplay: '(48) 99998-5115',
-  linkedin: 'eliveltondev',
+  Linkedin: 'eliveltondev',
   address: 'Avenida Bayer Filho, 998 — Centro - Tijucas/SC',
   mapsUrl: 'https://maps.app.goo.gl/E7zQAMZgfCmLQ1QC6',
   hours: [
