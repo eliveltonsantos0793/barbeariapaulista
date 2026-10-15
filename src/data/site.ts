@@ -7,7 +7,7 @@ export const site = {
   // Somente dígitos: código do país + DDD + número (ex.: 5511987654321)
   whatsapp: '5548999985115',
   whatsappDisplay: '(48) 99998-5115',
-  instagram: 'will_bertoldo',
+  linkedin: 'eliveltondev',
   address: 'Avenida Bayer Filho, 998 — Centro - Tijucas/SC',
   mapsUrl: 'https://maps.app.goo.gl/E7zQAMZgfCmLQ1QC6',
   hours: [
